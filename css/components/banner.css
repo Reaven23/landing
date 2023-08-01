@@ -1,0 +1,33 @@
+.banner {
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+  color: white;
+  padding-top: 40px;
+}
+
+.btn {
+  text-decoration: none;
+  color: white;
+  padding: 8px 25px;
+  background-color: rgb(165, 226, 249);
+  border: 1px solid white;
+  border-radius: 25%;
+}
+
+.banner p {
+  margin-bottom: 40px;
+  font-size: 30px;
+  text-shadow: 0px 10px 30px rgb(111, 205, 241);
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.container h2 {
+  text-align: center;
+  font-size: 30px;
+}
